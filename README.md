@@ -1,3 +1,4 @@
+[![Maintainability](https://qlty.sh/gh/snus-user/projects/LoadingScreen/maintainability.svg)](https://qlty.sh/gh/snus-user/projects/LoadingScreen)
 # Tilt Loading Page
 
 Статическая страница загрузки на чистых HTML/CSS/JS.
