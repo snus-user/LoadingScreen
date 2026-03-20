@@ -18,5 +18,4 @@
 - `?to=/app.html` — редирект после 100%
 
 Пример:
-
-- `index.html?ms=2200&to=https://example.com`
+![hippo](https://github.com/snus-user/LoadingScreen/blob/main/demo/2026-03-20%2005-45-47.gif)
